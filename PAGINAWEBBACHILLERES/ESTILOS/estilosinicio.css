@@ -1,0 +1,52 @@
+#logo3{
+    display: inline-block;
+    float: left;
+
+}
+#logo4{
+    display: inline-block;
+    float: right;
+    text-align: right;
+    width: 15;
+}
+#titulo2{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    border: groove;
+}
+
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+    
+    
+}
+
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    font-size: 20;
+    border: groove;
+    border-style: dashed solid;
+    border-color: greenyellow;}
+.subtema{
+    
+    text-align: center;
+    color: greenyellow;
+    background-color:burlywood;}
+
+   .forimparrafo{
+    float:right;
+    padding: 6px;
+    margin: 8px;
+border: dashed;
+    width: 8%;
+}
+ 
+#nombre{
+    color: red;
+    font-weight: bold;
+}
